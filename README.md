@@ -1,14 +1,17 @@
+![](https://img.shields.io/badge/WARNING-EF5350)<br />
+This project has not yet begun development, and the following content may differ from the actual details.
+
 # EasyCalc
 
 ### Introduction
-- _EasyCalc_ is a lightweight terminal calculator. Developed by leehxuan. The program is open-sourced at [Github](https://github,com/leehxuan/easy-calc/).
+- EasyCalc is a lightweight terminal calculator. Developed by leehxuan. The program is open-sourced at [Github](https://github,com/leehxuan/easy-calc/).
 
 ### User Guide
-- Ways to run the _EasyCalc_.
+- Ways to run the EasyCalc.
     1. Run the executable file. ![](https://img.shields.io/badge/SIMPLEST-4DD0E1) ![](https://img.shields.io/badge/RECOMMENDED-8BC34A)
     2. Download the source code and compile it yourself. ![](https://img.shields.io/badge/CUSTOMIZABLE-4DD0E1)
 - All available commands can be found in [Available Commands](#Available).
-- Quit the _EasyCalc_.
+- Quit the EasyCalc.
     1. Press `ALT + F4`.
     2. Use the command `q` to exit the program. ![](https://img.shields.io/badge/RECOMMENDED-8BC34A)
 
